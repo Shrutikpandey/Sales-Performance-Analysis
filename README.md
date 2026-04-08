@@ -11,9 +11,9 @@ This project focuses on analyzing sales data from a retail e-commerce business (
 * **Data Cleaning:** Power Query
 * **Modeling:** DAX (Data Analysis Expressions) for KPIs and calculated measures
 
-## 📂 Data & Project Files
-- **Raw Data:** [sales_data_raw.xlsx](./sales_data_raw.xlsx)
-- **Power BI Dashboard:** [sales_performance_report.pbix](Sales Analytics Dashboard.pbix)
+## 📂 Project Files
+- **Raw Data:** [Sales analysis data.xlsx](./Sales%20analysis%20data.xlsx)
+- **Power BI Dashboard:** [Sales Analytics Dash Board.pbix](./Sales%20Analytics%20Dash%20Board.pbix)
 
 ## 📊 Dashboard Preview
 
