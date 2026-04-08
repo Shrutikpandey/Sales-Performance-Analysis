@@ -13,7 +13,7 @@ This project focuses on analyzing sales data from a retail e-commerce business (
 
 ## 📂 Data & Project Files
 - **Raw Data:** [sales_data_raw.xlsx](./sales_data_raw.xlsx)
-- **Power BI Dashboard:** [sales_performance_report.pbix](./sales_performance_report.pbix)
+- **Power BI Dashboard:** [sales_performance_report.pbix](Sales Analytics Dashboard.pbix)
 
 ## 📊 Dashboard Preview
 
